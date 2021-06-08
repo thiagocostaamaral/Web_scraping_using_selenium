@@ -1,5 +1,5 @@
 # web-scraping-using-selenium-
-The objective of this code is to get the forecast data for a given point in the map. For this the code gets the data showed on windy site.
+The objective of this code is to get the forecast data for a given point in the map. For this the code gets the data given in the url: https://www.windy.com/
 
 Site: (the desired data is the one that appers in the bottom of the image)
 
